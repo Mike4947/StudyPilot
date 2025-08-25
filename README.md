@@ -22,6 +22,12 @@ studypilot
 python -m studypilot
 ```
 
+### BringStudy (agenda CLI)
+```bash
+bringstudy list            # lister les entrées
+bringstudy add "Titre" 2024-06-01 -c exam -d "Description"
+```
+
 ## Données locales par utilisateur
 - Windows: %APPDATA%/StudyPilotLocal
 - macOS: ~/Library/Application Support/StudyPilotLocal
