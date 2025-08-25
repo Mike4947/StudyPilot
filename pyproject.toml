@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "studypilot-local"
-version = "1.0.0"
+version = "1.1.0"
 description = "StudyPilot Local – outil d'étude secondaire (PyQt5, multi-utilisateur, local)"
 authors = [{name="StudyPilot", email="example@example.com"}]
 readme = "README.md"

@@ -1,0 +1,15 @@
+/* Premium QSS */
+QMainWindow, QWidget { background: #0f1216; color: #e6eaf2; }
+QGroupBox { border: 1px solid #232a33; border-radius: 12px; margin-top: 12px; padding: 8px 12px 12px 12px; }
+QGroupBox::title { subcontrol-origin: margin; left: 14px; padding: 0 4px; color:#98a2b3; }
+QPushButton { border: 1px solid #232a33; border-radius: 8px; padding: 6px 10px; background:#151a21; }
+QPushButton:hover { border-color:#3b82f6; }
+QPushButton:disabled { color:#98a2b3; border-color:#1b2028; }
+QLineEdit, QSpinBox, QDateEdit, QComboBox, QTextEdit { border: 1px solid #232a33; border-radius: 8px; padding: 6px; background:#151a21; selection-background-color:#3b82f6; }
+QTabWidget::pane { border: 1px solid #232a33; border-radius: 12px; top:-1px; }
+QTabBar::tab { background:#151a21; border:1px solid #232a33; min-width: 120px; padding:8px; border-top-left-radius: 10px; border-top-right-radius: 10px; }
+QTabBar::tab:selected { background:#1a2028; border-color:#3b82f6; }
+QHeaderView::section { background:#151a21; border:1px solid #232a33; padding:4px; }
+QTableWidget { gridline-color:#232a33; selection-background-color: rgba(59,130,246,0.35); }
+QMenu { background:#151a21; border:1px solid #232a33; }
+QStatusBar { color:#98a2b3; }

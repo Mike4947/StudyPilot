@@ -5,20 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56f5fd4d-b9d9-48e0-bb55-a82f57ed6617" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/StudyPilot Pro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studypilot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studypilot/__main__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studypilot/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/studypilot/assets/logo.svg" afterDir="false" />
+      <changelist_data name="Mike4947" email="" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/model/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/model/storage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/qss/theme.qss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/mainwindow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/splash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/agenda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/horaire.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/importer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/subjects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/studypilot/ui/widgets/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studypilot/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/studypilot/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studypilot/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/studypilot/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studypilot/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/studypilot/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studypilot/assets/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/studypilot/assets/logo.svg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +34,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Mike4947" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Mike4947"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Mike4947/StudyPilot.git",
+    "accountId": "35c62c9f-ae21-4536-aeac-767fd172af07"
+  }
+}]]></component>
+  <component name="MaliciousPackageCheckinHandlerState">
+    <option name="packageCheck" value="true" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
@@ -39,8 +68,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.StudyPilot.executor": "Debug",
+    "Python.__init__.executor": "Run",
+    "Python.__main__.executor": "Run",
     "Python.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/Programmation__game/StudyPilot Pro"
@@ -50,6 +83,31 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Programmation__game\StudyPilot Pro" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="StudyPilot" type="PythonConfigurationType" factoryName="Python">
+      <module name="StudyPilot Pro" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (StudyPilot Pro)" />
+      <option name="WORKING_DIRECTORY" value="D:\Programmation__game\StudyPilot Pro" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/studypilot/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -66,6 +124,23 @@
       <option name="presentableId" value="Default" />
       <updated>1756080011804</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit version 1 doesnt work">
+      <option name="closed" value="true" />
+      <created>1756080599260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756080599260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="first commit version 1 doesnt work" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit version 1 doesnt work" />
   </component>
 </project>

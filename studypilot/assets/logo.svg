@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#22c55e"/></linearGradient></defs>
-<rect x="10" y="10" width="180" height="180" rx="30" fill="#151a21" stroke="#3b82f6" stroke-width="6"/>
-<text x="100" y="115" text-anchor="middle" font-family="Segoe UI" font-size="72" fill="url(#g)">SP</text>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 200'>
+<defs><linearGradient id='g' x1='0' y1='0' x2='1' y2='1'><stop offset='0%' stop-color='#3b82f6'/><stop offset='100%' stop-color='#22c55e'/></linearGradient></defs>
+<rect x='10' y='10' width='180' height='180' rx='30' fill='#151a21' stroke='#3b82f6' stroke-width='6'/>
+<text x='100' y='115' text-anchor='middle' font-family='Segoe UI' font-size='72' fill='url(#g)'>SP</text>
 </svg>
