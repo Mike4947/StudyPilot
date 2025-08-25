@@ -13,3 +13,4 @@ dependencies = ["PyQt5>=5.15"]
 
 [project.scripts]
 studypilot = "studypilot.__main__:main"
+bringstudy = "bringstudy.__main__:main"
